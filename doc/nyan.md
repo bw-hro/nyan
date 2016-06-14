@@ -608,7 +608,7 @@ TownCenter(Building):
     creates = {Villager}
 
 
-# User mod increases the HP amount:
+# User mod decreases the HP amount:
 BalanceHP<LoomVillagerHP>():
     hp -= 5
 
